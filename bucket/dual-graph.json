@@ -7,10 +7,8 @@
   "hash": "4f1b8980fd2a8f9db8df86901fa949ce8f269adde9f0661697293b1579b7693c",
   "installer": {
     "script": [
-      "& \"$dir\install.ps1\""
+      "& \"$dir\\install.ps1\""
     ]
   },
-  "notes": "After install, open a new terminal and run:
-  dgc .   # Claude Code
-  dg  .   # Codex CLI"
+  "notes": "After install, open a new terminal and run:\n  dgc .   # Claude Code\n  dg  .   # Codex CLI"
 }
