@@ -1,5 +1,5 @@
 {
-  "version": "2.0",
+  "version": "2.1",
   "description": "Dual-graph MCP tool for Claude Code and Codex CLI",
   "homepage": "https://github.com/kunal12203/Codex-CLI-Compact",
   "license": "Proprietary",
