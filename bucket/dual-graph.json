@@ -4,8 +4,8 @@
   "homepage": "https://github.com/kunal12203/Codex-CLI-Compact",
   "license": "Proprietary",
   "depends": ["main/python", "main/nodejs"],
-  "url": "https://raw.githubusercontent.com/kunal12203/Codex-CLI-Compact/6009e4c7f1d8929d13109f9476bd50884c12bbff/install.ps1",
-  "hash": "68ce9e3907266ae1c1d54d5e168d578a6ea3b403ed41091e7fe4af4bb0393ab5",
+  "url": "https://raw.githubusercontent.com/kunal12203/Codex-CLI-Compact/b4ad1979363e91150b708e3e22db7df6cc6a3ecd/install.ps1",
+  "hash": "19b2feec30e034493bf6d5827d87f7d5610c1bc20c2a3c8d4aee62aafb9a25f7",
   "installer": {
     "script": [
       "& \"$dir\\install.ps1\""
