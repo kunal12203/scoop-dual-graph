@@ -7,7 +7,7 @@
     "main/python",
     "main/nodejs"
   ],
-  "url": "https://raw.githubusercontent.com/kunal12203/Codex-CLI-Compact/d06540b9c9f8c8b20ca0b2897d47ab8b469d46de/install.ps1",
+  "url": "https://raw.githubusercontent.com/kunal12203/Codex-CLI-Compact/242afe3674535c0f83ada2414ba31e0ebf3a80b8/install.ps1",
   "hash": "df6530ac3cb1354eb2c4f268544d9e9d8937e2f8087d3e109eb1721967f99630",
   "installer": {
     "script": [
