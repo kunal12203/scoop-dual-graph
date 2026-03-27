@@ -1,5 +1,5 @@
 {
-  "version": "3.9.28",
+  "version": "3.9.29",
   "description": "Dual-graph MCP tool for Claude Code and Codex CLI",
   "homepage": "https://github.com/kunal12203/Codex-CLI-Compact",
   "license": "Proprietary",
@@ -7,12 +7,12 @@
     "main/python",
     "main/nodejs"
   ],
-  "url": "https://raw.githubusercontent.com/kunal12203/Codex-CLI-Compact/400f3edcee6df59791b21764099369dfc787d3d8/install.ps1",
+  "url": "https://raw.githubusercontent.com/kunal12203/Codex-CLI-Compact/56c442d34582f0d6d18b98f611388dff98fc592a/install.ps1",
   "hash": "86081e4f7a6dbb058a6f72039c8577e3a210e3695d84d1ae6a50bea2823ae9e7",
   "installer": {
     "script": [
       "& \"$dir\\install.ps1\""
     ]
   },
-  "notes": "Run in this terminal after install:\n  dgc \"C:\\path\\to\\your\\project\"              # Claude Code\n  dg  \"C:\\path\\to\\your\\project\"              # Codex CLI\n  graperoot \"C:\\path\\to\\your\\project\" --cursor   # Cursor IDE\n  graperoot \"C:\\path\\to\\your\\project\" --gemini   # Gemini CLI"
+  "notes": "Run in this terminal after install:\n  dgc \"C:\\path\\to\\your\\project\"                  # Claude Code\n  dg  \"C:\\path\\to\\your\\project\"                  # Codex CLI\n  graperoot \"C:\\path\\to\\your\\project\" --cursor    # Cursor IDE\n  graperoot \"C:\\path\\to\\your\\project\" --gemini    # Gemini CLI\n  graperoot \"C:\\path\\to\\your\\project\" --opencode  # OpenCode\n  graperoot \"C:\\path\\to\\your\\project\" --copilot   # GitHub Copilot (VS Code)"
 }
