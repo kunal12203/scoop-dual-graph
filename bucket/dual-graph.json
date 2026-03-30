@@ -1,5 +1,5 @@
 {
-  "version": "3.9.47",
+  "version": "3.9.48",
   "description": "Dual-graph MCP tool for Claude Code and Codex CLI",
   "homepage": "https://github.com/kunal12203/Codex-CLI-Compact",
   "license": "Apache-2.0",
@@ -7,7 +7,7 @@
     "main/python",
     "main/nodejs"
   ],
-  "url": "https://raw.githubusercontent.com/kunal12203/Codex-CLI-Compact/6404e79e43e0af2a19f35ec5cec7ae974527d1e6/install.ps1",
+  "url": "https://raw.githubusercontent.com/kunal12203/Codex-CLI-Compact/53b500c2e6a7bb8e661cb684b90b5928e5fee0cb/install.ps1",
   "hash": "34d2e016186ded3f17847361e4e309b3cdbfd4700bc689c0d5bd1404845927ef",
   "installer": {
     "script": [
